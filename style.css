@@ -1,0 +1,76 @@
+img{
+    height: 50px;
+    width: 100px;
+}
+.imgs img{
+    justify-content: space-around;
+    height: 600px;
+    width: 333.5px;
+}
+.navbar{
+    justify-content: flex-end;
+    background-color: rgb(99, 109, 155) !important;
+}
+.nav-link{
+    color: #fff !important;
+    margin-left: 20px;
+    
+}
+.nav-link ul{
+    margin-right: 100px;
+}
+
+
+.navbar-brand img{
+    margin-left: 200px;
+    height: 100px;
+    width: 100px;
+}
+h3{
+    margin-left: 30px;
+}
+.navbar-nav{
+    margin-left:550px;
+}
+
+.ims2{
+    justify-content: space-around;
+    height:800;
+    width:400;
+}
+.card{
+height: 100px;
+width: 200px;
+box-shadow:0px 0px 15px rgb(124, 104, 104);
+margin-top: 20px;
+display:inline-flex;
+margin: 20px 0px 0px 40px;
+
+}
+.cardsec2{
+    margin-top: 100px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+@media only screen and (max-width: 450px) {
+    .card{
+      margin-top: 100px;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .card{
+      width: 100%;
+    }
+  }
+  .imgp2{
+      margin-top: 100px;
+  }
+  .womenc{
+      margin-top: 100px
+      ;
+  }
+  .card-text{
+      text-align: center;
+  }
